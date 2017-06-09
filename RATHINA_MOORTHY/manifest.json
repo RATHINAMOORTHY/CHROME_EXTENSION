@@ -1,0 +1,10 @@
+{
+"manifest_version": 2,
+"name": "This is Rathina Moorthy's Extension",
+"version": "1.0",
+"description": "This is Rathina Moorthy's Extension",
+"browser_action":{
+"default_icon": "rathina.png",
+"popup": "hai.html"
+}
+}
